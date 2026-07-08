@@ -141,4 +141,7 @@ Solution: Tested the sensor separately before integrating it into the final syst
 ## Demo
 
 
+https://github.com/user-attachments/assets/f6fa66b7-6b61-4853-a3fd-3a5899b33492
+
+
 
